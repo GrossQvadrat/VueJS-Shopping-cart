@@ -5,7 +5,7 @@ var app = new Vue({
       {
         name: "T-Shirt",
         price: 69.3,
-        img: "./images/T-Shirt.jpg",
+        img: "./T-Shirt.jpg",
         colItem: 1,
         title: ""
       },
@@ -13,35 +13,35 @@ var app = new Vue({
         name: "JEANS",
         title: "",
         price: 211,
-        img: "./images/JEANS.jpg",
+        img: "./JEANS.jpg",
         colItem: 1
       },
       {
         name: "Bag",
         title: "",
         price: 212,
-        img: "./images/Bag.jpg",
+        img: "./Bag.jpg",
         colItem: 1
       },
       {
         name: "Belt",
         title: "",
         price: 210,
-        img: "./images/Belt.jpg",
+        img: "./Belt.jpg",
         colItem: 1
       },
       {
         name: "Hooded Sweatshirt",
         title: "",
         price: 211,
-        img: "./images/Sweatshirt.jpg",
+        img: "./Sweatshirt.jpg",
         colItem: 1
       },
       {
         name: "Blazer",
         title: "",
         price: 212,
-        img: "./images/Blazer.jpg",
+        img: "./Blazer.jpg",
         colItem: 1
       }
     ],
